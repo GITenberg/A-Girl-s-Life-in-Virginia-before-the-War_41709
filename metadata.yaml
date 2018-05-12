@@ -1,0 +1,39 @@
+_repo: A-Girl-s-Life-in-Virginia-before-the-War_41709
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Turcas, Jules
+    gutenberg_agent_id: '41316'
+    url: http://www.gutenberg.org/2009/agents/41316
+  - agent_name: McCullough, W. A. (William A.)
+    alias: McCullough, William A.
+    gutenberg_agent_id: '41315'
+    url: http://www.gutenberg.org/2009/agents/41315
+covers:
+- cover_type: archival
+  image_path: 41709-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burwell, Letitia M.
+    alias: Thacker, Page
+    gutenberg_agent_id: '41314'
+    url: http://www.gutenberg.org/2009/agents/41314
+description: '"Letitia M. Burwell was born on a plantation in Virginia and spent most
+  of her life in the rural regions of that state. Her book, A Girl''s Life in Virginia
+  Before the War (1895), records her memories of the antebellum South"--Page 4 of
+  cover.'
+gutenberg_issued: '2012-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41709'
+  lccn: '04016755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Social life and customs'
+- !lcc 'F206'
+- !lcsh 'Slavery -- United States'
+title: A Girl's Life in Virginia before the War
+url: http://www.gutenberg.org/ebooks/41709
